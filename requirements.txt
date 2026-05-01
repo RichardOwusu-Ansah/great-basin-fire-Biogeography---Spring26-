@@ -1,0 +1,18 @@
+# Python geospatial stack for Great Basin post-fire analysis
+# Tested with Python 3.10+
+#
+# Install:  pip install -r requirements.txt
+
+geopandas>=1.0
+rasterio>=1.3
+shapely>=2.0
+matplotlib>=3.7
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+
+# Data download / notebook tooling
+requests>=2.31
+tqdm>=4.66
+jupyter>=1.0
+notebook>=7.0
